@@ -13,14 +13,19 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+## Hi I'm Youngseo 👋
+### 🙋🏻‍♀️ About
+> Sookmyung Women's University (Senior)</br>
+> B.S. Candidate in Computer Science & Big Data (Interdisciplinary Major)  
+> Interested in Agentic AI and Backend Development
+<br>
 
-![Header](https://capsule-render.vercel.app/api?type=soft&color=003153&fontColor=ffffff&height=150&text=System.out.println(%22Hi,%20I'm%20Youngseo%22);&fontSize=35&animation=twinkling)
+<div align="center"> 
 
 ## 🛠️ Skills
 
-<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" />
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 
@@ -72,5 +77,12 @@ Here are some ideas to get you started:
 ### [DotheG]
 **Team Lead & Backend Developer** | *2024. 09 - 2025.02*   
 *Led project planning and backend development for an Eco-Activity Gamification App (3rd Place at SOLUX)*
+
+---
+
+## 📫 Contact
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ysnoh0455@gmail.com)
+[![Naver](https://img.shields.io/badge/Naver-2DB400?style=for-the-badge&logo=naver&logoColor=white)](mailto:ysnoh22@naver.com)
 
 </div>
