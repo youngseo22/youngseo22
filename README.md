@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## Hi I'm Youngseo 👋
 ### 🙋🏻‍♀️ About
 > Sookmyung Women's University (Senior)</br>
-> B.S. Candidate in Computer Science & Big Data (Interdisciplinary Major)  
+> B.S. Candidate in Computer Science & Big Data Engineering
 > Interested in Agentic AI and Backend Development
 <br>
 
