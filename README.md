@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi I'm Youngseo 👋
 ### 🙋🏻‍♀️ About
-> Sookmyung Women's University (Senior)</br>
-> B.S. Candidate in Computer Science & Big Data Engineering
-> Interested in Agentic AI and Backend Development
+> Sookmyung Women's University (2022.03 - Present)  
+> B.S. Candidate in Computer Science & Big Data Engineering  
+> Interested in Agentic AI and Backend Development  
 <br>
 
 <div align="center"> 
@@ -35,13 +35,6 @@ Here are some ideas to get you started:
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
 <img src="https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white" />
-
----
-
-## 🎓 Education
-
-**Sookmyung Women's University**  
-*Computer Science & Big Data (Interdisciplinary Major) | 2022.03 - Present*
 
 ---
 
