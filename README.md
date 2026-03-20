@@ -63,12 +63,12 @@ Here are some ideas to get you started:
 ## 📂 Featured Work & Projects
 
 ### [Bit-Bite]
-**Backend & Infra Engineer** | *2025. 11 - 2025. 12   
+**Backend & Infra Engineer** | 2025. 11 - 2025. 12   
 *AI-based CS Knowledge Training Service & k8s Infrastructure*
 
 ### [VeriBadge]
-**Backend Team Lead & Developer** | *2025. 08 - 2025. 09*   
-*Secure verification badge issuance system (설명추가)*
+**Backend Lead & Developer** | *2025. 08 - 2025. 09*   
+*Secure verification badge issuance system *
 
 ### [SeoulMate]
 **Backend Developer** | *2025. 07 - 2025. 08*   
