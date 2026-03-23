@@ -13,13 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Hi I'm Youngseo 👋
-### 🙋🏻‍♀️ About
-> Sookmyung Women's University (2022.03 - Present)  
-> B.S. Candidate in Computer Science & Big Data Engineering  
-> Interested in Agentic AI and Backend Development  
-<br>
-
 <div align="center"> 
 
 ## 🛠️ Skills
