@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 ### [VeriBadge]
 **Backend Lead & Developer** | *2025. 08 - 2025. 09*   
-*Secure verification badge issuance system *
+*Secure verification badge issuance system*
 
 ### [SeoulMate]
 **Backend Developer** | *2025. 07 - 2025. 08*   
