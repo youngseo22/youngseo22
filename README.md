@@ -33,11 +33,11 @@ Here are some ideas to get you started:
 
 ## 🚀 Experience
 
-**Edutem** | AI Agent Developer (Intern) | 2026.03 - Present
+**Edutem** | AI Agent Developer (Intern) | 2026. 03 - 2026. 06
 
 **9roomthonUNIV SMWU 4th (IT Club)** | 2025. 03 - 2025. 09
 
-**SOLUX (IT Club)** | *Head of PR & Collaboration (28th & 29th Executive Board)*  | 2023.03 - 2025.02
+**SOLUX (IT Club)** | *Head of PR & Collaboration (28th & 29th Executive Board)*  | 2023. 03 - 2025. 02
 <br> 🥉 3rd Place, Project Excellence Award (Eco-Activity Gamification App)
 
 **CJ UNIT 9th** | *SW Coding Education Volunteer* | 2023. 08 - 2024. 01 
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 *Language exchange platform featuring Google OAuth and External Voice Recognition API integration.*
 
 ### [DotheG]
-**Team Lead & Backend Developer** | *2024. 09 - 2025.02*   
+**Team Lead & Backend Developer** | *2024. 09 - 2025. 02*   
 *Led project planning and backend development for an Eco-Activity Gamification App (3rd Place at SOLUX)*
 
 ---
