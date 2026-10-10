@@ -48,6 +48,10 @@ Here are some ideas to get you started:
 
 ## 📂 Featured Work & Projects
 
+### [Beat It]
+**PM & Backend & Infra Engineer** | 2026. 04 - PRESENT   
+*A team-management app for bands and music groups*
+
 ### [Bit-Bite]
 **Backend & Infra Engineer** | 2025. 11 - 2025. 12   
 *AI-based CS Knowledge Training Service & k8s Infrastructure*
@@ -61,7 +65,7 @@ Here are some ideas to get you started:
 *Language exchange platform featuring Google OAuth and External Voice Recognition API integration.*
 
 ### [DotheG]
-**Team Lead & Backend Developer** | *2024. 09 - 2025. 02*   
+**PM & Backend Developer** | *2024. 09 - 2025. 02*   
 *Led project planning and backend development for an Eco-Activity Gamification App (3rd Place at SOLUX)*
 
 ---
